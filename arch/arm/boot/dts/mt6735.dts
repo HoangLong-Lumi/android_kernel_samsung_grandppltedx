@@ -3417,4 +3417,5 @@ firmware_class.path=/vendor/firmware";
 	/* IRTX GPIO Settings -End */
 };
 
+#include "mt6737t_grandpplte.dtsi"
 #include <trusty.dtsi>
